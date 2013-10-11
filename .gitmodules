@@ -1,0 +1,3 @@
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/DuncanSungWKim/android_platform_external_openssl.git
