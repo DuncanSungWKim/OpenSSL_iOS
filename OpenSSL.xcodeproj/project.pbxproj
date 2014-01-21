@@ -3839,7 +3839,7 @@
 				DSTROOT = /tmp/OpenSSL.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "";
-				OTHER_LDFLAGS = "-ObjC";
+				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = ssl;
 				SKIP_INSTALL = YES;
 			};
@@ -3851,7 +3851,7 @@
 				DSTROOT = /tmp/OpenSSL.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "";
-				OTHER_LDFLAGS = "-ObjC";
+				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = ssl;
 				SKIP_INSTALL = YES;
 			};
@@ -3951,7 +3951,7 @@
 				DSTROOT = /tmp/OpenSSL.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "";
-				OTHER_LDFLAGS = "-ObjC";
+				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -3963,7 +3963,7 @@
 				DSTROOT = /tmp/OpenSSL.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "";
-				OTHER_LDFLAGS = "-ObjC";
+				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -3975,7 +3975,7 @@
 				DSTROOT = /tmp/OpenSSL.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "";
-				OTHER_LDFLAGS = "-ObjC";
+				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = crypto;
 				SKIP_INSTALL = YES;
 			};
@@ -3987,7 +3987,7 @@
 				DSTROOT = /tmp/OpenSSL.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "";
-				OTHER_LDFLAGS = "-ObjC";
+				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = crypto;
 				SKIP_INSTALL = YES;
 			};
